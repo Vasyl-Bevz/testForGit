@@ -7,4 +7,7 @@ fun main( ){
     println("Hello World. Today: ${LocalDate.now()}")
     val  x = 4 + 6
     println(x)
+
+    val y = 54 - 2
+    println(y)
 }
