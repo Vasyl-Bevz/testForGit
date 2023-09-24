@@ -10,4 +10,6 @@ fun main( ){
 
     val r = 54 - 2
     println(r)
+
+    print("Test")
 }
