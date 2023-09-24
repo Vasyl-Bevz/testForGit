@@ -8,6 +8,6 @@ fun main( ){
     val  x = 4 + 6
     println(x)
 
-    val y = 54 - 2
-    println(y)
+    val r = 54 - 2
+    println(r)
 }
